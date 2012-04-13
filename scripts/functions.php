@@ -14,4 +14,8 @@ function main($r) {
   }
 }
 
+function update_11() {
+  die ('This is versioin 1.1');
+}
+
 ?>
