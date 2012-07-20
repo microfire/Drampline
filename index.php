@@ -12,5 +12,9 @@ function reboot($time, $message) {
   // must reboot
 }
 
+function robot($head, $data) {
+  // he will do something
+}
+
 ?>
 
